@@ -1,4 +1,4 @@
-![Deepak Choudhary — full-stack developer](https://raw.githubusercontent.com/deepak429/deepak429/main/banner.png)
+
 
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" width="360" alt="coding animation" />
 
