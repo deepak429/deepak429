@@ -1,4 +1,4 @@
-![Deepak Choudhary — software developer](https://raw.githubusercontent.com/deepak429/deepak429/main/banner.png)
+![Deepak Choudhary — software developer](https://raw.githubusercontent.com/deepak429/deepak429/main/banner.svg)
 
 <div align="center">
 
