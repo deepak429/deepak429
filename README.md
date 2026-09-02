@@ -1,108 +1,146 @@
+![Deepak Choudhary — software developer](https://raw.githubusercontent.com/deepak429/deepak429/main/banner.png)
 
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepakch429.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakch429@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917678208283)
+[![Profile views](https://komarev.com/ghpvc/?username=deepak429&label=Profile%20views&color=8b5cf6&style=for-the-badge)](https://github.com/deepak429)
 
+</div>
 
-## Hi, I'm Deepak 👋
+---
 
-Software Developer at **Livechek Pvt. Ltd.** in New Delhi, working across the stack with **Angular, React, TypeScript, Node.js, and AWS**. Day to day I ship production systems for employee monitoring, workflow automation, and driver tracking. Outside work I build AI-powered products and care a lot about performance and clean architecture.
+## About me
 
-- 🔭 Currently building **[DailyForage](https://dailyforage.in/)** — an AI-generated daily news platform, 245+ articles across 12+ categories
-- 🌱 Going deeper on **system design, event-driven architecture, and AWS**
-- 💬 Ask me about **React, Next.js, Angular, TypeScript, Node.js, AWS**
-- 📫 Reach me at **deepakch429@gmail.com**
-- 🌐 Portfolio: **[deepakch429.vercel.app](https://deepakch429.vercel.app)**
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right" width="340" alt="coding animation" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deepak429&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Software Developer at **Livechek Pvt. Ltd.** in New Delhi, working across the stack with Angular, React, TypeScript, Node.js, and AWS. I ship production systems — employee monitoring, workflow automation, MIS reporting, and real-time driver tracking — and build AI-powered products on the side.
+
+```js
+const deepak = {
+  role:     'Software Developer @ Livechek',
+  location: 'New Delhi, India',
+  building: 'DailyForage — AI news platform',
+  learning: ['System Design', 'Event-Driven Architecture', 'AWS'],
+  ask_me:   ['React', 'Next.js', 'Angular', 'Node.js', 'AWS'],
+};
+```
 
 <br clear="both">
 
-## Projects
+---
 
-**[DailyForage](https://dailyforage.in/)** — AI-powered daily news and content platform
-Full-stack platform publishing AI-generated stories with bilingual English/Hindi support, AI summarization, personalized feeds, full-text search, RSS syndication, and a daily email newsletter. Built SEO from the ground up: dynamic Open Graph image generation via API routes and structured metadata.
-`Next.js` `TypeScript` `Tailwind CSS` `MongoDB` `AWS Lambda`
+## Featured projects
 
-**IdeaVora** — AI-powered idea development platform
-Turns raw ideas into actionable projects with AI-generated implementation plans, flowcharts, roadmaps, and cost estimation. Includes community validation — public sharing, peer reviews, ratings, Q&A, and multi-user collaboration.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**DriverTell** *(at Livechek)* — real-time driver monitoring application, alongside a video streaming platform for insurance claim verification.
+### 📰 [DailyForage](https://dailyforage.in/)
+AI-powered daily news platform — **245+ articles** live across **12+ categories**.
 
-## I work with
+Bilingual English/Hindi, AI summarization, personalized feeds, full-text search, RSS syndication, and a daily email newsletter. SEO built in with dynamic Open Graph image generation and structured metadata.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
-## GitHub Stats
+</td>
+<td width="50%" valign="top">
+
+### 💡 IdeaVora
+AI-powered idea development platform that turns raw ideas into actionable projects.
+
+Generates implementation plans, flowcharts, roadmaps, and cost estimates, then adds community validation — public sharing, peer reviews, ratings, Q&A, and multi-user collaboration.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+> **At Livechek** — engineered **DriverTell**, a real-time driver monitoring app, plus a video streaming platform for insurance claim verification, and contributed to employee monitoring, attendance, and telecaller dashboards.
+
+---
+
+## Tech stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak429&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak429&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-## Connect with me
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-  <a href="mailto:deepakch429@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
-  </a>
-  <a href="https://wa.me/917678208283" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
-  </a>
+## GitHub stats
+
+<!--
+  NOTE: github-readme-stats.vercel.app is currently down. Deploy your own fork
+  to Vercel with a PAT_1 env variable, then replace the two URLs below.
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak429&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak429&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="165" alt="top languages" />
 </div>
 
-<!-- Requires the Platane/snk GitHub Action pushing to an `output` branch. Delete if not set up. -->
-<img src="https://raw.githubusercontent.com/deepak429/deepak429/output/snake.svg" alt="Snake animation" />
+---
+
+## Education & achievements
+
+- 🎓 **BCA, Computer Applications** — GGSIPU University (FIMT College), 2022–2025 · GPA **8.496 / 10**
+- 📜 **IBM SkillBuild** — Front-End Developer Program
+- 🥇 **First Prize** — G20 Front-End Website Design Competition, FIMT (2022)
+
+---
+
+<div align="center">
+
+**Open to interesting problems and good conversations.**
+
+[deepakch429@gmail.com](mailto:deepakch429@gmail.com) · [deepakch429.vercel.app](https://deepakch429.vercel.app)
+
+</div>
