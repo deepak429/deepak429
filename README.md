@@ -117,17 +117,15 @@ Generates implementation plans, flowcharts, roadmaps, and cost estimates, then a
 
 ## GitHub stats
 
-<!--
-  NOTE: github-readme-stats.vercel.app is currently down. Deploy your own fork
-  to Vercel with a PAT_1 env variable, then replace the two URLs below.
--->
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak429&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak429&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6" height="165" alt="top languages" />
-</div>
 
----
+![Followers](https://img.shields.io/github/followers/deepak429?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdeepak429&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Repos&color=38BDF8&labelColor=0D1117)
+![Location](https://img.shields.io/badge/New_Delhi-India-FBBF24?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
+
+<img src="https://raw.githubusercontent.com/deepak429/deepak429/main/github-metrics.svg" alt="GitHub metrics" />
+
+</div>
 
 ## Education & achievements
 
